@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">U3_Alvarez_Bouzaz_Alberto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+
+    <string-array name="spinner_opcions">
+        <item>Telefono</item>
+        <item>Buscador</item>
+    </string-array>
+
+
+
+</resources>
+
